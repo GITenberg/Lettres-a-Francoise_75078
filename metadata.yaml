@@ -1,0 +1,41 @@
+_repo: Lettres-a-Francoise_75078
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Guillaume, Albert
+    gutenberg_agent_id: '57814'
+    url: http://www.gutenberg.org/2009/agents/57814
+creator:
+  author:
+    agent_name: Prévost, Marcel
+    aliases:
+    - Prevost, Marcel
+    - Marcel Prévost
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '4089'
+    url: http://www.gutenberg.org/2009/agents/4089
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Marcel_Prévost
+    - https://fr.wikipedia.org/wiki/Marcel_Pr%C3%A9vost
+description: ''
+gutenberg_issued: '2025-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75078'
+language: fr
+pgterms:marc904: http://archive.org/details/lettresfr191000pr
+pgterms:marc905: 20230611221553prvost
+pgterms:marc906: '1910'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Hans Pieterse and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aParis :$bLemerre, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lettres à Françoise
+url: http://www.gutenberg.org/ebooks/75078
