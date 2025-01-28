@@ -5,6 +5,9 @@ contributor:
     agent_name: Guillaume, Albert
     gutenberg_agent_id: '57814'
     url: http://www.gutenberg.org/2009/agents/57814
+covers:
+- cover_type: archival
+  image_path: 75078-h/images/cover.jpg
 creator:
   author:
     agent_name: Prévost, Marcel
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Marcel_Prévost
     - https://fr.wikipedia.org/wiki/Marcel_Pr%C3%A9vost
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75078#Lettres-a-Francoise
 gutenberg_issued: '2025-01-10'
 gutenberg_type: Text
 identifiers:
